@@ -1,10 +1,10 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: Contacts
+permalink: /contacts/
 ---
 
-Страничка About.
+Страничка Contacts.
 [atikhobaev.ru][atikhobaev.ru]
 
 [atikhobaev.ru]:http://atikhobaev.ru
